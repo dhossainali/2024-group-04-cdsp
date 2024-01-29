@@ -1,3 +1,73 @@
+
+Asylum Seeker Mental Health Issues in Refugee camps 
+
+_____________________________________________________________________ 
+
+Project Overview 
+
+______________________________________________________________________________ 
+
+    
+
+ 
+
+Installation and Setup 
+
+_____________________________________________________________________________________ 
+
+Editor Used:  
+
+Python Version: 
+
+Data 
+
+____________________________________________________________________________________ 
+
+Source Data 
+
+ 
+
+Data Acquisition 
+
+ 
+
+Data Preprocessing 
+
+ 
+
+Code structure 
+
+______________________________________________________________________________ 
+
+Results and evaluation 
+
+_____________________________________________________________________________________ 
+
+  
+
+ 
+
+Contributors 
+
+_______________________________________________________________________________________________________________ 
+
+Hannamariam, Mahdi Gholami, Mahnaz Nabizada, Rohollah Mohammadi,  
+
+Sediqe Mohammadi, Zainab Hussaini 
+
+ 
+
+License 
+
+______________________________________________________________________________________________________ 
+
+ MIT License. 
+
+
+
+
+
+
 Group norm summary
 
 Conduct at least one weekly group meeting.
