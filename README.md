@@ -1,9 +1,9 @@
 
-Asylum Seeker Mental Health Issues in Refugee camps 
+#Asylum Seeker Mental Health Issues in Refugee camps 
 
 _____________________________________________________________________ 
 
-Project Overview 
+##Project Overview 
 
 ______________________________________________________________________________ 
 
@@ -11,35 +11,35 @@ ______________________________________________________________________________
 
  
 
-Installation and Setup 
+##Installation and Setup 
 
 _____________________________________________________________________________________ 
 
-Editor Used:  
+###Editor Used:  
 
-Python Version: 
+###Python Version: 
 
-Data 
+##Data 
 
 ____________________________________________________________________________________ 
 
-Source Data 
+###Source Data 
 
  
 
-Data Acquisition 
+###Data Acquisition 
 
  
 
-Data Preprocessing 
+###Data Preprocessing 
 
  
 
-Code structure 
+##Code structure 
 
 ______________________________________________________________________________ 
 
-Results and evaluation 
+##Results and evaluation 
 
 _____________________________________________________________________________________ 
 
@@ -47,21 +47,21 @@ ________________________________________________________________________________
 
  
 
-Contributors 
+##Contributors 
 
 _______________________________________________________________________________________________________________ 
 
-Hannamariam, Mahdi Gholami, Mahnaz Nabizada, Rohollah Mohammadi,  
+###Hannamariam, Mahdi Gholami, Mahnaz Nabizada, Rohollah Mohammadi,  
 
-Sediqe Mohammadi, Zainab Hussaini 
+###Sediqe Mohammadi, Zainab Hussaini 
 
  
 
-License 
+##License 
 
 ______________________________________________________________________________________________________ 
 
- MIT License. 
+ ###MIT License. 
 
 
 
