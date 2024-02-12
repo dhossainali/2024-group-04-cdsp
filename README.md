@@ -1,5 +1,5 @@
 
-# Asylum Seeker Mental Health Issues in Refugee Camps 
+# Social Media and Mental Health 
 
 _____________________________________________________________________ 
 
