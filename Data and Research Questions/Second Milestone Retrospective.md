@@ -8,5 +8,3 @@ Data Flaws Awareness: Although we identified and addressed some data flaws durin
 Future Data Collection: In retrospect, we could have explored additional sources of data or considered collecting supplementary data ourselves to enhance the richness and depth of our analysis.
 
 Overall, Milestone 2 was a productive phase in our project journey, laying a solid foundation for subsequent data analysis and modeling activities. Moving forward, we will continue to refine our dataset and leverage it to derive meaningful insights into the relationship between social media usage and mental health.
-
-Overall, Milestone 2 was a productive phase in our project journey, laying a solid foundation for subsequent data analysis and modeling activities. Moving forward, we will continue to refine our dataset and leverage it to derive meaningful insights into the relationship between social media usage and mental health.
