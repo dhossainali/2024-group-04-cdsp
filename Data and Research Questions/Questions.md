@@ -26,6 +26,14 @@
 
 ### Sediqe Mohammadi
 
+### 1. Is there any correlation between the time spent on social media and sleep issues?
+### 2. Is there any correlation between the time spent on social media and feeling sadness or depression?
+### 3. Is there any correlation between the time spent on social media and comparing him/herself to other people through the use
+of social media?
+### 4. Is there any correlation between the time spent on social media and difficulty concentrating?
+### 5. Is there any correlation between the time spent on social media and being worried and anxious?
+### 6. Is there any correlation between occupational status and being worried and anxious?
+
 
 ### Zainab Hussaini
 
