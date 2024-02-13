@@ -42,4 +42,8 @@
 
 ### Zainab Hussaini
 
-
+#### 1- What is the relationship between concentration difficulties and social media usage?
+#### 2- How does daily time spent on social media influence mental health outcomes?
+#### 3- How do gender differences impact social media usage and mental health outcomes?
+#### 4- How does social comparison on social media impact mental health?
+#### 5- How do individuals feel after comparing themselves to others on social media?
