@@ -23,6 +23,12 @@
 
 ### Mahnaz Nabizada
 
+#### 1. How does the frequency of social media use correlate with self-reported levels of stress and anxiety among different age groups?
+#### 2. Is there a correlation between the type of content consumed on social media (e.g., news, entertainment, social interactions) and reported mental health outcomes?
+#### 3. Do individuals who engage in online social comparison through social media platforms experience higher levels of mental health issues compared to those who do not engage in such comparisons?
+#### 4. Is there a correlation between the number of social media platforms used simultaneously and the likelihood of experiencing symptoms related to mental health disorders?
+#### 5. How does the duration of social media use before bedtime correlate with the prevalence of sleep disturbances and insomnia among users?
+
 
 ### Sediqe Mohammadi
 
