@@ -20,6 +20,12 @@
 
 ### Hannamariam
 
+#### 1 Is there a correlation between time spent on social media and focus problems?
+#### 2 How often do university students use social media?
+#### 3 Which gender often uses social media to impact mental health more?
+#### 4 Does the job we do affect the time we spend on social media and mental health?
+#### 5 Do relationship states affect social media usage and mental health?
+
 
 ### Mahnaz Nabizada
 
